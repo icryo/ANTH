@@ -4,9 +4,11 @@
 
 [![Build Status](https://img.shields.io/badge/Next%20Training-DEFCON%202020-red)](https://travis-ci.org/joemccann/dillinger)
 
-  - Learn about SFIC locks!
-  - Includes OSINT challenges!
-  - From Physical to Virtual and Back!
+  - SFIC Picking
+  - Key Duplication
+  - Lateral Movement
+  - System Decoding
+
 
 # CTF Edition!
 ```sh
