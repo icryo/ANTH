@@ -18,13 +18,6 @@ Features:
   - Walkthroughs 
   - After-hours CTF!
   
-### Follow up materials
-
-Dillinger uses a number of open source projects to work properly:
-
-* [LPL-Picking SFICs]
-Gutting SFICs
-
 
 ### Todos
 
@@ -34,9 +27,4 @@ License
 ----
 
 MIT
-
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-   [LPL-Picking SFICs]: <https://www.youtube.com/watch?v=po1j6RNR0wo>
-   [Gulp]: <http://gulpjs.com>
 
