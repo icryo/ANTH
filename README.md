@@ -2,7 +2,7 @@
 
 
 
-[![Build Status](https://img.shields.io/badge/Next%20Training-DEFCON%202020-red)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://img.shields.io/badge/Next%20Training-TBD%202020-red)](https://travis-ci.org/joemccann/dillinger)
 
 After completion of Keystone to the Kingdom attendees should have a stronger understanding of:
   - SFIC Picking
